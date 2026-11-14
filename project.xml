@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="NovaBound" package="com.novaboundcrew.novabound" version="0.1.0" company="NovaBoundCrew" />
+
+    <app main="Main" file="NovaBound" path="export" />
+
+    <source path="source" />
+
+    <haxelib name="lime" />
+    <haxelib name="openfl" />
+
+    <window width="1280" height="720" fps="60" background="#000000" fullscreen="false" resizable="true" />
+
+    <assets path="assets" rename="assets" />
+</project>
