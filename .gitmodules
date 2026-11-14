@@ -1,0 +1,3 @@
+[submodule "arts"]
+    path = arts
+    url = https://github.com/NovaBoundCrew/NovaBound-Art.git
